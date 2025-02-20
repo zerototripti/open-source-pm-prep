@@ -7,12 +7,12 @@ This repository aims to be a comprehensive, community-driven resource for aspiri
 
 ## Table of Contents
 
-*   [Product Sense](#product-sense)
-*   [Execution](#execution)
-*   [Strategy](#strategy)
-*   [Technical](#technical)
-*   [Behavioral](#behavioral)
-*   [Metrics](#metrics)
-*   [Contribution Guidelines](#contributing)
+*   [Product Sense](#product-sense.md)
+*   [Execution](#execution.md)
+*   [Strategy](#strategy.md)
+*   [Technical](#technical.md)
+*   [Behavioral](#behavioral.md)
+*   [Metrics](#metrics.md)
+*   [Contribution Guidelines](#contributing.md)
 
 We appreciate your contributions to making this a valuable resource for the PM community!
